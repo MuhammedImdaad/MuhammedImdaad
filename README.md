@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MuhammedImdaad. 
+- 👋 Hi, I’m Imdaad. 
 - 👀 I’m interested in Internet of Things (IoT), Machine Learning, Embedded Systems, Digital Systems, Processor Design, and Telecommunication
 - 🌱 I’m currently learning ML and Advanced Digital Systems
 - 💞️ I’m curious about almost any new technological trends and looking forward to collaborating on any above-mentioned fields
